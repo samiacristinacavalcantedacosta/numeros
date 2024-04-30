@@ -1,0 +1,21 @@
+<script>
+var = 5
+
+if (var > 5){
+
+document.write("resultado positivo")
+} else if (var < 5){
+
+document.write("resultado negativo")
+
+} else (var == 0){ 
+document.write("igual a zero")
+
+}
+
+
+
+
+
+
+</script>
